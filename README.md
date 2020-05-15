@@ -17,6 +17,11 @@ npm run dev
 #### LifeCycle
 ![image](https://user-images.githubusercontent.com/42940194/81882353-8460eb80-95cd-11ea-8864-0e527f546442.png)
 
+### Vuex
+#### 구조
+![image](https://user-images.githubusercontent.com/42940194/82062001-6a75f480-9704-11ea-9b71-de5612b3db2e.png)
+
 
 #### 참고 링크
 * http://wiki.sys4u.co.kr/pages/viewpage.action?pageId=8553372
+* https://vuex.vuejs.org/kr/
