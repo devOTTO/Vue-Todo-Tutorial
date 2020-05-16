@@ -24,6 +24,9 @@ npm run dev
 # Vue counter App Tutorial
 > [참고 링크](https://medium.com/@benjaminwoojang/%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-vue-js-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-setup%ED%95%98%EA%B8%B0-e3540b9bd964)
 
+* [Vuex 시작하기 1 - Vuex와 State](https://joshua1988.github.io/web-development/vuejs/vuex-start/)
+
+
 #### 참고 링크
 * http://wiki.sys4u.co.kr/pages/viewpage.action?pageId=8553372
 * https://vuex.vuejs.org/kr/
